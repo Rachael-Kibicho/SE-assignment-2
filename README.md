@@ -16,7 +16,7 @@ It differs from traditional programming in that, unlike in traditional programmi
 
 Software Development Life Cycle (SDLC):
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase./n
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Planning - Here we're defining the purpose and the scope of the project.
 Analysis: Understanding the problem by collecting and breaking down information from stakeholders.
 Design - Creation of a system architechure of the solution of the problem.
